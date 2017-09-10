@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>563B4F3A-66CA-495D-8F08-85A46515A5F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BOOL Party</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>70A922618F52C4E3D19BACD0EF863707349167E4</key>
+		<string>github.com:andyRon/note-exercise.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/OC/BOOL Party/BOOL Party.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>70A922618F52C4E3D19BACD0EF863707349167E4</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:andyRon/note-exercise.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>70A922618F52C4E3D19BACD0EF863707349167E4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>70A922618F52C4E3D19BACD0EF863707349167E4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>note-exercise</string>
+		</dict>
+	</array>
+</dict>
+</plist>
