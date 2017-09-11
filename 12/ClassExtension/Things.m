@@ -8,10 +8,6 @@
 
 #import "Things.h"
 
-//@implementation Things
-//
-//@end
-
 @interface Things()
 {
     NSInteger thing4;
@@ -20,3 +16,8 @@
 @property (readwrite, assign) NSInteger thing2;
 @property (assign) NSInteger thing3;
 @end
+
+@implementation Things
+
+@end
+

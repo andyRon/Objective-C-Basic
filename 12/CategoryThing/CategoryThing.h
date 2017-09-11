@@ -7,7 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <AppKit/AppKit.h>
 
+NSWindow
 @interface CategoryThing : NSObject
 {
     NSInteger thing1;

@@ -13,9 +13,8 @@
 #import "Slant6.h"
 #import "AllWeatherRadial.h"
 
-
 int main(int argc, const char * argv[]) {
-   
+
     Car *car = [Car new];
     
     Engine *engine = [Slant6 new];

@@ -15,7 +15,6 @@
 
 -(NSString *)description
 {
-//    return (@"I am a tire for rain or shine.");
     NSString *desc;
     desc = [[NSString alloc] initWithFormat:@"AllWeatherRadial: %.1f / %.1f / %.1f / %.1f.", self.pressure, self.treadDepth, self.rainHandling, self.snowHandling];
     return desc;
@@ -45,4 +44,6 @@
     }
     return self;
 }
+
+
 @end
